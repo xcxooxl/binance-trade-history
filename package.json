@@ -1,0 +1,16 @@
+{
+  "name": "binance-trade-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ccxt": "^1.48.76",
+    "exceljs": "^4.2.1"
+  }
+}
